@@ -1,0 +1,4 @@
+#.gitigonore
+.vscode/
+archive/
+src_biz/
