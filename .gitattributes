@@ -1,0 +1,4 @@
+# .gitattributes ファイル
+*.txt text eol=lf
+*.ipynb text eol=crlf
+*.jpg binary
