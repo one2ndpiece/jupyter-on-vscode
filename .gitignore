@@ -1,5 +1,4 @@
 #.gitigonore
 .vscode/
-src_biz/
-archive/
-src/
+data/
+docker/vscode-extensions/*

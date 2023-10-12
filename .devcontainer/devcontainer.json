@@ -1,0 +1,23 @@
+{
+    "name": "Your Project",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": "..",
+        "args": { }
+    },
+    "runArgs": [
+        "--service-ports"
+    ],
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.shell.linux": "/bin/bash"
+            },
+            "extensions": [
+                
+            ]
+        }
+    },
+    "workspaceFolder": "/usr/src/app",
+    "remoteUser": "root"
+}
